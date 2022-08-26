@@ -1,1 +1,1 @@
-# mediaquery  ı used html css media query flex.
+in #mediaquery  ı used html css media query flex.
